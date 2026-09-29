@@ -1,0 +1,11 @@
+# Игнорировать всё по умолчанию
+*
+*/
+
+# Разрешенные файлы для репозитория
+!.gitignore
+!README.md
+!requirements.txt
+!train_predict.py
+!solution.ipynb
+!metric.py
