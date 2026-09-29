@@ -5,6 +5,7 @@
 # Разрешенные файлы для репозитория
 !README.md
 !requirements.txt
+!metric.py
 !train_predict.py
 !solution.ipynb
 
